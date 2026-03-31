@@ -16,3 +16,5 @@ Bulid APK `File -> Bulid Profiles -> Android -> bulid`
 - Mixamo(PC)
 - READY PLAYER ME(closed) -> PLAYER ZERO
 - Unity AssetStore UMA 2
+
+### IK
