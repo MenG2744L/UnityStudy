@@ -18,4 +18,7 @@ Bulid APK `File -> Bulid Profiles -> Android -> bulid`
 - Unity AssetStore UMA 2
 
 ### IK
+- unity IK
+- Final IK
+- meta all in one
 
