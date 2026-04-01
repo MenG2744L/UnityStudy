@@ -1,4 +1,6 @@
 # [UnityStudy](https://github.com/MenG2744L/UnityStudy)
+## Version
+Unity 6 (6000.1.71f1) LTS
 
 ## Unity VRR Rigs
 - Head(Camera)
